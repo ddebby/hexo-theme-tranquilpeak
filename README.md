@@ -1,9 +1,14 @@
 # Tranquilpeak
 
+An AI Learning Blog fork by Tranquilpeak.
+Blog is here: http://www.blog.a-stack.com
+
+
 [![Build Status](https://img.shields.io/travis/LouisBarranqueiro/hexo-theme-tranquilpeak/master.svg?style=flat-square)](https://travis-ci.org/LouisBarranqueiro/hexo-theme-tranquilpeak)
 [![Slack](https://img.shields.io/badge/slack-join-cf0e5b.svg?style=flat-square)](https://now-examples-slackin-stlpermtzi.now.sh)
 
-A gorgeous responsive theme for Hexo blog framework 
+Fork:A gorgeous responsive theme: www.blog.a-stack.com 
+
 
 [![Tranquilpeak](http://d1u9biwaxjngwg.cloudfront.net/showcases/showcase-v2.jpg)](http://louisbarranqueiro.github.io/hexo-theme-tranquilpeak)
 
